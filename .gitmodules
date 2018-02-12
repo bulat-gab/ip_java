@@ -1,3 +1,6 @@
 [submodule "Assignment1"]
 	path = Assignment1
 	url = https://github.com/meg0man/Assignment1.git
+[submodule "chat"]
+	path = JavaChat
+	url = https://github.com/meg0man/JavaChat.git
