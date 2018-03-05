@@ -1,6 +1,0 @@
-[submodule "Assignment1"]
-	path = core-java/Assignment1
-	url = https://github.com/meg0man/Assignment1.git
-[submodule "chat"]
-	path = core-java/JavaChat
-	url = https://github.com/meg0man/JavaChat.git
