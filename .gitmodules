@@ -1,0 +1,6 @@
+[submodule "core-java/JavaChat"]
+	path = core-java/JavaChat
+	url = https://github.com/meg0man/JavaChat.git
+[submodule "project-diary-spring"]
+	path = project-diary-spring
+	url = https://github.com/meg0man/project-diary-spring.git
